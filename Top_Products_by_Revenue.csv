@@ -1,0 +1,11 @@
+Product,Category,Total_Quantity,Total_Revenue,Orders
+Refrigerator,Home Appliances,65,78000,24
+Laptop,Electronics,73,58400,24
+Smartphone,Electronics,97,48500,35
+Washing Machine,Home Appliances,45,27000,16
+Smartwatch,Electronics,105,15750,34
+Headphones,Electronics,73,7300,25
+Running Shoes,Footwear,72,4320,27
+Jeans,Clothing,62,2480,20
+T-Shirt,Clothing,53,1060,20
+Book,Books,69,1035,25
